@@ -53,3 +53,10 @@ rm -rf %buildroot
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/README.rdoc
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Thu Nov 04 2010 Rémy Clouard <shikamaru@mandriva.org> 0.8.4-1mdv2011.0
++ Revision: 593395
+- import rubygem-spork
+
