@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.9.2
-Release:    2
+Release:    3
 Summary:    A forking Drb spec server
 Group:      Development/Ruby
 License:    MIT
