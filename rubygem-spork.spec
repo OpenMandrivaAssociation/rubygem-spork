@@ -6,7 +6,7 @@ Release:    3
 Summary:    A forking Drb spec server
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/timcharper/spork
+URL:        https://github.com/timcharper/spork
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 Requires:   rubygems
 BuildRequires: rubygems
